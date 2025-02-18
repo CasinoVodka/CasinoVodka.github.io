@@ -87,9 +87,10 @@ z-index: 10001;
 
 @media (max-width: 768px) and (orientation: portrait) {
     #background {
-        width: calc(100vw + 140px);
-        height: calc((100vw + 140px) * 2.99);
-        margin-left: -70px;
-        margin-right: -70px;
+        background-image: url('../images/mobile.jpg');
+        width: calc(100vw + 40px);
+        height: calc((100vw + 40px) * 8.7);
+        margin-left: -20px;
+        margin-right: -20px;
     }
 }
