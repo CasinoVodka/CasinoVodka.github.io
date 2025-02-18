@@ -1,0 +1,94 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0c111c;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+@keyframes fadeInOut {
+    0%, 100% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+
+* {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+#background {
+    width: 100vw;
+    height: calc(100vw * 1.64); /* 1985 / 1920 ≈ 1.033, 5935 / 1920 ≈ 3.09 */
+    background-image: url('../images/tournaments.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: top center;
+    cursor: pointer;
+}
+h1, h2, p, ul, ol {
+    margin: 0;
+    padding: 0;
+    color: transparent; /* Делает текст невидимым */
+    user-select: none; /* Предотвращает выделение текста */
+    margin-top: -1900px;
+}
+
+
+nav {
+    position: fixed;
+    top: 1080px;
+    left: 100px;
+    background: transparent;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 10;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 5px 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: transparent;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+canvas {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 90px;
+            height: 90px;
+            border-radius: 45px;
+z-index: 10001;
+}
+
+/* Медиа-запрос для мобильных устройств в портретном положении */
+
+@media (max-width: 768px) and (orientation: portrait) {
+    #background {
+        width: calc(100vw + 140px);
+        height: calc((100vw + 140px) * 1.64);
+        margin-left: -70px;
+        margin-right: -70px;
+    }
+}

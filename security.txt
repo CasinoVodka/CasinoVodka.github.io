@@ -1,0 +1,11 @@
+# Security contact information
+Contact: support@casinovodka.store
+
+# Encryption
+Preferred-Languages: en
+
+# Encryption
+Preferred-Languages: ru
+
+# Policy
+Policy: https://casinovodka.store/casino-vodka/privacy_policy.html

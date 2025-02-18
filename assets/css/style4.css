@@ -1,0 +1,187 @@
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+    color: #000000;
+    text-shadow: none;
+}
+
+body {
+    background-repeat: repeat;
+    box-shadow: inset 0 0 1rem rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+#background {
+    background-image: url("../images/license.jpg");
+    background-repeat: repeat;
+    box-shadow: inset 0 0 1rem rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    cursor: pointer; 
+    position: absolute; 
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
+
+.cover-container {
+    pointer-events: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.3rem;
+    color: #000;
+    text-align: center;
+    user-select: none; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5%;
+    margin-top: 5vh;
+    text-align: center;
+    z-index: 1;
+}
+
+.logo {
+    width: 50px; 
+    height: auto;
+    margin-bottom: 10px; 
+}
+
+.centered-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3rem;
+}
+
+.badge {
+    display: inline-block;
+    padding: 0.4em 0.8em;
+    border-radius: 30%;
+    background-color: #338c48; 
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.nav-masthead .nav-link {
+    --bs-bg-opacity: ;
+    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+    padding: 0.25rem 0;
+    font-weight: 700;
+    color: rgba(161, 228, 174, 0.5);
+    background-color: transparent;
+    border-bottom: 0.25rem solid transparent;
+    pointer-events: none
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+    border-bottom-color: rgba(255, 255, 255, 0.25);
+}
+
+.nav-masthead .nav-link + .nav-link {
+    margin-left: 1rem;
+}
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3rem;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.nav-masthead .active {
+    color: #fff;
+    border-bottom-color: #fff;
+}
+
+@media only screen and (max-width: 500px) {
+    .roboto-regular {
+        font-size: 1rem;
+    }
+}
+
+.no-select {
+    user-select: none; 
+}

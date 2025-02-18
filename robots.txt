@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Карты сайта для поисковиков
+Sitemap: https://www.casinovodka.store/sitemap.xml
+Sitemap: https://casinovodka.store/sitemap.xml
+

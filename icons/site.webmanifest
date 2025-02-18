@@ -1,0 +1,93 @@
+{
+  "name": "vodkalux.ru",
+  "short_name": "vodkalux.ru",
+  "icons": [
+    {
+      "src": "icons/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    }
+    {
+      "src": "icons/favicon-96x96.png",
+      "sizes": "192x192",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    }
+    {
+      "src": "icons/favicon-64x64.png",
+      "sizes": "192x192",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/favicon-48x48.png",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    }
+    {
+      "src": "icons/favicon-32x32.png",
+      "sizes": "192x192",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/favicon-16x16.png",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    }icons
+    {
+      "src": "icons/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "icons/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/apple-touch-icon-180x180.png",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    }
+    {
+      "src": "icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    }
+    {
+      "src": "icons/android-chrome-192x192.png",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    }
+    {
+      "src": "icons/favicon.svg",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    }
+    {
+      "src": "icons/favicon.ico",
+      "sizes": "512x512",
+      "type": "icons/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
