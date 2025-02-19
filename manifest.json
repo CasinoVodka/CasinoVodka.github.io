@@ -57,11 +57,6 @@
       "type": "image/svg+xml"
     },
     {
-      "src": "/icons/site.webmanifest",
-      "sizes": "any",
-      "type": "application/manifest+json"
-    },
-    {
       "src": "/icons/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
