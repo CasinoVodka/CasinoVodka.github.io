@@ -4,11 +4,11 @@ Allow: /
 # Карты сайта для поисковиков
 Sitemap: https://www.casinovodka.store
 Sitemap: https://casinovodka.store
-Sitemap: https://casinovodka.store/sitemap.xml
-Sitemap: https://casinovodka.store/about.html
-Sitemap: https://casinovodka.store/vip.html
-Sitemap: https://casinovodka.store/license.html
-Sitemap: https://casinovodka.store/privacy_policy.html
-Sitemap: https://casinovodka.store/promo-code.html
-Sitemap: https://casinovodka.store/rules.html
-Sitemap: https://casinovodka.store/tournaments.html
+Sitemap: https://casinovodka.store/casino-vodka/sitemap.xml
+Sitemap: https://casinovodka.store/casino-vodka/about.html
+Sitemap: https://casinovodka.store/casino-vodka/vip.html
+Sitemap: https://casinovodka.store/casino-vodka/license.html
+Sitemap: https://casinovodka.store/casino-vodka/privacy_policy.html
+Sitemap: https://casinovodka.store/casino-vodka/promo-code.html
+Sitemap: https://casinovodka.store/casino-vodka/rules.html
+Sitemap: https://casinovodka.store/casino-vodka/tournaments.html
