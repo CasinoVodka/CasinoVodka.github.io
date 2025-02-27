@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <!-- Главная страница -->
+    <!-- casino vodka -->
     <url>
         <loc>https://casinovodka.store/</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>1.00</priority>
     </url>
 
-    <!-- Статические файлы -->
+    <!-- vodka-casino -->
     <url>
         <loc>https://casinovodka.store/index.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
+ <!-- casinovodka -->
     <url>
         <loc>https://casinovodka.store/robots.txt</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.50</priority>
     </url>
-
+ <!-- casino_vodka -->
     <url>
         <loc>https://casinovodka.store/sitemap.xml</loc>
         <lastmod>2025-02-18</lastmod>
@@ -33,105 +33,86 @@
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/casino-vodka/license.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/casino-vodka/privacy_policy.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/casino-vodka/promo-code.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/casino-vodka/rules.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/casino-vodka/tournaments.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/casino-vodka/vip.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
-    <!-- Изображения -->
     <url>
         <loc>https://casinovodka.store/assets/images/about.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/assets/images/about2.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/assets/images/license.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/assets/images/privacy_policy.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/assets/images/promo-code.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/assets/images/rules.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/assets/images/rules2.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/assets/images/tournaments.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/assets/images/vip.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/assets/images/vodka-casino.jpg</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.30</priority>
     </url>
-
-    <!-- Иконки -->
     <url>
         <loc>https://casinovodka.store/icons/favicon.ico</loc>
         <lastmod>2025-02-18</lastmod>
@@ -142,37 +123,31 @@
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/license.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/privacy_policy.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/promo-code.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/rules.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/tournaments.html</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-
     <url>
         <loc>https://casinovodka.store/vip.html</loc>
         <lastmod>2025-02-18</lastmod>
@@ -183,9 +158,13 @@
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>
-        </url>
-        <url>
+    <url>
         <loc>https://casinovodka.store/casino vodka.png</loc>
+        <lastmod>2025-02-18</lastmod>
+        <priority>0.80</priority>
+    </url> 
+    <url>
+        <loc>https://www.google.com/collections/s/list/smwiCnJLSjqcIunxMdDrtg/1ciXAy2Xkxk</loc>
         <lastmod>2025-02-18</lastmod>
         <priority>0.80</priority>
     </url>   
